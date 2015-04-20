@@ -8,7 +8,7 @@
 <head>
     <title>SellAnyCar.com | Sell Any Car to us! Guaranteed purchase. Find out your car's value for FREE now</title>
 	<!-- Bootstrap core CSS -->
-    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="css/styles.css" rel="stylesheet">
     <link rel="icon" href="https://sac-cdn.s3.amazonaws.com/images/favicon.ico" type="image/x-icon">
@@ -65,7 +65,7 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
+    <script src="s/bootstrap.min.js"></script>
     <script src="js/application.js"></script>
 </body>
 </html>
